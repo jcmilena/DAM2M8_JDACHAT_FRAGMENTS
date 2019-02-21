@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "769002325357",
+    "firebase_url": "https://jdachat-cb623.firebaseio.com",
+    "project_id": "jdachat-cb623",
+    "storage_bucket": "jdachat-cb623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769002325357:android:1e363af945069dae",
+        "android_client_info": {
+          "package_name": "com.example.juancarlosmilena.jdachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769002325357-5aaa3l7qsf3nt7l041uj1fhd80nagbce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juancarlosmilena.jdachat",
+            "certificate_hash": "9f23ba9ec5480b90e901199d70b784267bd987df"
+          }
+        },
+        {
+          "client_id": "769002325357-jpmh1fehrt95s298thegng20pdov27mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGLN3A6BgZGiU5zntsKXZpA6LdB3m_KDM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769002325357-jpmh1fehrt95s298thegng20pdov27mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
